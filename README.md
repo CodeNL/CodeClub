@@ -19,7 +19,7 @@
     * [Lesson 6 - Create Your Own World](http://projects.codeclubworld.org/en-GB/02_scratch_02/06/Create%20Your%20Own%20World.html)
   * [Beginner Python](http://projects.codeclubworld.org/en-GB/09_python/index.html)
     * [Lesson 1 - ASCII Art](http://projects.codeclubworld.org/en-GB/09_python/01/ASCII%20Art.html)
-    * [Lesson 2 - The Year 2025](http://projects.codeclubworld.org/en-GB/09_python/02/The%20Year%202025.html)
+    * [Lesson 2 - The Year 2025](http://projects.codeclubworld.org/en-GB/09_python/02/The%20Year%202025.html) (*Note*: See notes below about the print and input functions)
     * [Lesson 3 - Quiz](http://projects.codeclubworld.org/en-GB/09_python/03/Quiz.html)
     * [Lesson 4 - Turtle Power](http://projects.codeclubworld.org/en-GB/09_python/04/Turtle%20Power.html)
     * [Lesson 5 - Gameshow](http://projects.codeclubworld.org/en-GB/09_python/05/Gameshow.html)
