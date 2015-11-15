@@ -31,5 +31,23 @@
     * [Lesson 4 - Pokedex](http://projects.codeclubworld.org/en-GB/10_python/04/Pokedex.html)
     * [Lesson 5 - RPG](http://projects.codeclubworld.org/en-GB/10_python/05/RPG.html)
     * [Lesson 6 - Minecraft2D](http://projects.codeclubworld.org/en-GB/10_python/06/Minecraft2D.html)
-* [List of Programming Resources](https://github.com/CodeNL/curated-programming-resources/blob/master/resources.md)
+ * [List of Programming Resources](https://github.com/CodeNL/curated-programming-resources/blob/master/resources.md)
+
+
+Note for Python Lessons
+-----------------------
+
+The lab computers we're using only have `Python 2.7` installed, but the lessons use `Python 3`. The two versions are mostly compatible, but there are two commands that won't work properly in the Python lessons.
+
+ * print
+  
+  For the `print` command, it won't behave properly under some circumstances. To fix this, copy and paste this line to the top of the file:
+
+   `from __future__ import print_function`
+   
+   Once that line has been added to the top of the file, the print function will work as shown in the lessons.
+   
+ * input
+   
+ The `input` function will not work as described in the lessons either. Instead, you should use `raw_input` in place of `input`. `raw_input` will behave as `input` does in the lessons.
 
