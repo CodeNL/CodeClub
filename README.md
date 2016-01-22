@@ -1,11 +1,5 @@
 # CodeClub Resources
 
-## Make a Holiday Card!
-
-[Click here to create your own interactive holiday card](https://scratch.mit.edu/projects/editor/?tip_bar=hoc)
-
-Here are [some examples of other people's Holiday cards](https://scratch.mit.edu/studios/279432/).
-
 ## Scratch
 
 * [CodeClub Teaching Materials](http://projects.codeclubworld.org/en-GB/)
