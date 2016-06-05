@@ -43,17 +43,6 @@ Here are [some examples of other people's Holiday cards](https://scratch.mit.edu
 Note for Python Lessons
 -----------------------
 
-The lab computers we're using only have `Python 2.7` installed, but the lessons use `Python 3`. The two versions are mostly compatible, but there are two commands that won't work properly in the Python lessons.
+The lab computers we're using will not properly run the `IDLE` program, which we use in our lessons. We will work with the IT department to get this fixed for the next Code Club, but for now, we have a workaround.
 
- * print
-  
-  For the `print` command, it won't behave properly under some circumstances. To fix this, copy and paste this line to the top of the file:
-
-   `from __future__ import print_function`
-   
-   Once that line has been added to the top of the file, the print function will work as shown in the lessons.
-   
- * input
-   
- The `input` function will not work as described in the lessons either. Instead, you should use `raw_input` in place of `input`. `raw_input` will behave as `input` does in the lessons.
-
+To fix this, you need to add what's called an "Environment Variable". To do this, right-click on "My Computer", click "properties", click "Advanced system settings", then click "Environment Variables". Then add a User variable with the name "TCL_LIBRARY" and the value "C:\Users\CS1019\AppData\Local\Programs\Python\Python35\tcl\tcl8.6". Then, IDLE will work properly.
