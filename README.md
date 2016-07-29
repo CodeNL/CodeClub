@@ -40,7 +40,7 @@ Here are [some examples of other people's Holiday cards](https://scratch.mit.edu
  * [List of Programming Resources](https://github.com/CodeNL/curated-programming-resources/blob/master/resources.md)
 
 
-Note for Python Lessons
+Note for Python Lessons in MUN Computer Lab CS-1019
 -----------------------
 
 The lab computers we're using will not properly run the `IDLE` program, which we use in our lessons. We will work with the IT department to get this fixed for the next Code Club, but for now, we have a workaround.
