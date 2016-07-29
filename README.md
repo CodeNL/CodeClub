@@ -23,6 +23,9 @@ Here are [some examples of other people's Holiday cards](https://scratch.mit.edu
     * [Lesson 4 - Catch the Dots](http://projects.codeclubworld.org/en-GB/02_scratch_02/04/Catch%20the%20Dots.html)
     * [Lesson 5 - Clone Wars](http://projects.codeclubworld.org/en-GB/02_scratch_02/05/Clone%20Wars.html)
     * [Lesson 6 - Create Your Own World](http://projects.codeclubworld.org/en-GB/02_scratch_02/06/Create%20Your%20Own%20World.html)
+
+## Python
+
   * [Beginner Python](http://projects.codeclubworld.org/en-GB/09_python/index.html)
     * [Lesson 1 - ASCII Art](http://projects.codeclubworld.org/en-GB/09_python/01/ASCII%20Art.html)
     * [Lesson 2 - The Year 2025](http://projects.codeclubworld.org/en-GB/09_python/02/The%20Year%202025.html)
