@@ -10,7 +10,7 @@ Here are [some examples of other people's Holiday cards](https://scratch.mit.edu
 
 * [CodeClub Teaching Materials](http://projects.codeclubworld.org/en-GB/)
   * [Beginner Scratch](http://projects.codeclubworld.org/en-GB/01_scratch_01/index.html)
-    * [Lesson 1 - Rock Band(requires speakers)](http://projects.codeclubworld.org/en-GB/01_scratch_01/01/Rock%20Band.html)
+    * [Lesson 1 - Rock Band (requires speakers)](http://projects.codeclubworld.org/en-GB/01_scratch_01/01/Rock%20Band.html)
     * [Lesson 2 - Lost in Space](http://projects.codeclubworld.org/en-GB/01_scratch_01/02/Lost%20in%20Space.html)
     * [Lesson 3 - Chostbusters](http://projects.codeclubworld.org/en-GB/01_scratch_01/03/Ghostbusters.html)
     * [Lesson 4 - ChatBot](http://projects.codeclubworld.org/en-GB/01_scratch_01/04/ChatBot.html)
